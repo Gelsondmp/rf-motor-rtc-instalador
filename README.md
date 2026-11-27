@@ -44,8 +44,9 @@ Depois disso, o Windows pede permissão de administrador (**Sim**) e o assistent
 | Disco | 40 GB livres |
 | Internet | Durante a instalação (o instalador baixa os componentes da versão escolhida) |
 | Permissão | Usuário administrador do computador |
+| Licença | Arquivo de licença (`.lic`) enviado pela consultoria que fornece o sistema |
 
-Não é preciso instalar nada antes. O instalador prepara o que falta sozinho.
+Não é preciso instalar nada antes. O instalador prepara o que falta sozinho. Sem a licença, o sistema abre só para consulta.
 
 ## O que o instalador faz
 
